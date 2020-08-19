@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aktuehr/typescript-npm-package-starter/issues"
   },
-  "homepage": "https://github.com/aktuehr/typescript-npm-package-starter#readme"
+  "homepage": "https://github.com/aktuehr/typescript-npm-package-starter#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
 }
