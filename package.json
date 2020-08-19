@@ -4,11 +4,12 @@
   "description": "Starter of npm package of TypeScript library.",
   "main": "dist/index.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
     "dist"
-  ]
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aktuehr/typescript-npm-package-starter.git"
