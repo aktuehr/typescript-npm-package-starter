@@ -1,0 +1,19 @@
+{
+  "name": "typescript-npm-package-starter",
+  "version": "0.1.0",
+  "description": "Starter of npm package of TypeScript library.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aktuehr/typescript-npm-package-starter.git"
+  },
+  "author": "Akito UEAHRA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aktuehr/typescript-npm-package-starter/issues"
+  },
+  "homepage": "https://github.com/aktuehr/typescript-npm-package-starter#readme"
+}
